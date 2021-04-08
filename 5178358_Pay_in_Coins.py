@@ -22,6 +22,7 @@ def primeSum(data):
                     break  
             else:  #execute when for loop doesn't break
                 primes.append(num)
+    print(primes)
                 
     results = []
     
